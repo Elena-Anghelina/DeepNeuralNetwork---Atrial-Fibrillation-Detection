@@ -1,4 +1,4 @@
-# DeepNeuralNetwork---Atrial-Fibrillation-Detection
+# DeepNeuralNetwork-Atrial-Fibrillation-Detection
 
 
 ## Run training and validation

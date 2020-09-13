@@ -12,7 +12,8 @@ python3 /ecg/train.py /ecg/config.json
 
 [ECG GitHub Repository](https://github.com/awni/ecg)
 
-```@article{hannun2019cardiologist,
+```
+@article{hannun2019cardiologist,
   title={Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network},
   author={Hannun, Awni Y and Rajpurkar, Pranav and Haghpanahi, Masoumeh and Tison, Geoffrey H and Bourn, Codie and Turakhia, Mintu P and Ng, Andrew Y},
   journal={Nature Medicine},
@@ -21,4 +22,5 @@ python3 /ecg/train.py /ecg/config.json
   pages={65},
   year={2019},
   publisher={Nature Publishing Group}
-}```
+}
+```
